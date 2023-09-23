@@ -21,12 +21,6 @@ HTML<br>
 CSS<br>
 JS<br>
 ______________________________________________________________
-WHAT WAS MY MOTIVATION IN BUILDING THIS APP?
-
- I love me some sports betting!<br><br>
- I've profitably managed several bankrolls that myself and friends have set up over the last 15 years, and
-    this is exactly the type of tool that I had always wanted to have at my fingertips.
-______________________________________________________________
  WHAT IS THE BANKROLL AND BETTING STRATEGY SECTION FOR?
     This section sets up the variables that are required to
     determine what your optimal bet sizes are.
