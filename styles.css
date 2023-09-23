@@ -1,0 +1,176 @@
+body {
+    background-image: linear-gradient(#2f2fa2, rgb(255, 187, 0))
+}
+
+h1 {
+    color: rgb(255, 187, 0);
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-style: double;
+    text-decoration-color:rgb(255, 187, 0);
+    height: 6vh;
+    padding-top: 5px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 1.45vw;
+    margin-top: 0px;
+    text-decoration: underline;
+    color:#2f2fa2;
+}
+
+h4 {
+    text-align: center;
+    font-size: 1.45vw;
+    margin-top: 0px;
+    color: #2f2fa2;
+    text-decoration: underline;
+    text-decoration-color: #2f2fa2;
+}
+
+h3 {
+    text-align: center;
+    font-size: 1.45vw;
+    text-decoration: underline;
+    margin-top: 0px;
+}
+
+h5, h6 {
+    text-align: center;
+    font-size: 1.3vw;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+a {
+    color:rgb(0, 0, 0);
+}
+
+#bankrolldiv {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 1vw;
+    padding-top: 5px;
+    height: fit-content;
+    width: 37vw;
+    background-color:rgb(255, 187, 0);
+    color:#2f2fa2;
+    border:#2f2fa2;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+    margin-left: 9vw;
+}
+
+#pickform {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: fit-content;
+    width: 28vw;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    background-color:rgb(255, 187, 0);
+    border:#2f2fa2;
+    border-width: 2px;
+    border-radius: 10px;
+    border-style: solid;
+    margin-left: 12vw;
+}
+
+#resultsdiv {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 33vw;
+    width: 40.5%;
+    text-align: center;
+    margin-top: 85vh;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5px;
+    background-color:#2f2fa2;
+    color:rgb(255, 187, 0);
+    border:rgb(255, 187, 0);
+    border-width: 1.5px;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+#inputsdiv {
+    float: left;
+}
+
+#bankboxes {
+    margin: auto;
+}
+
+#indbetdiv {
+    margin-top: 0px;
+}
+
+#pardiv {
+    margin-top: 0px;
+}
+
+#indbets {
+    font-size: 1.1vw;
+}
+
+.inputs {
+    text-align: center;
+    font-size: 1vw;
+    border-width: 2px;
+    border-style: groove;
+    border-color:rgb(2, 0, 129);
+    width: 6vw;
+    
+}
+
+.sel, .prob, .odds {
+    text-align: center;
+    font-size: 1vw;
+    border-width: 0.1vw;
+    border-style: groove;
+    border-color:rgb(2, 0, 129);
+    width: 6.5vw;
+    display: inline;
+    margin-left: 1.83vw;
+    margin-bottom: 10px;
+    float: left;
+}
+
+.scrollbox {
+    width: 13.1vw;
+    height: 26.2vw;
+    margin: auto;    
+    background-color:black;
+    color:rgb(255, 187, 0);
+    margin-top: 0px;
+    border:rgb(255, 187, 0);
+    border-width: 2px;
+    border-style: solid;
+}
+
+.button {
+    color: rgb(255, 187, 0);
+    background-color:rgb(2, 0, 129);
+}
+
+.button:hover {
+    background-color: rgb(146, 145, 214);
+    color:rgb(2, 0, 129);
+}
+
+.column {
+    float: left;
+    width: 50%;
+}
+
+.columna {
+    float: left;
+}
+  
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
