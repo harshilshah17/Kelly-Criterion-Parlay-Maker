@@ -51,3 +51,5 @@ _______________________________________________________________
      The Individual Kelly Values are the maximum amount that should be
      placed on any selection, on it's own. The Parlay Kelly Value is
      that amount for the combined odds of two picks.
+
+## View at https://parlay-maker.netlify.app/
